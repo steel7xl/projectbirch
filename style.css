@@ -1,0 +1,19 @@
+;h1 {
+  color: green;
+}
+.logo-body{
+  fill: purple;
+}
+.logo-body-2{
+  fill: white
+}
+.logo-eyes{
+  fill: purple
+}
+nav{
+  display: flex;
+  background-color: #aaa;
+}
+
+a{
+}
